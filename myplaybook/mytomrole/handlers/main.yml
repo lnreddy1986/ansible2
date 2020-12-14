@@ -1,7 +1,6 @@
 ---
 # handlers file for mytomrole
----
-# handlers file for mytomrole
+
 - name: starttomcat
   service:
    name: tomcat
